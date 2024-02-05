@@ -1,0 +1,12 @@
+ #indexContainer {
+    background-image: url(img/backpic.jpg);
+    background-size: cover;} 
+
+
+.indexInput {
+box-sizing: border-box;
+}
+
+#key {
+    color: red;
+}
