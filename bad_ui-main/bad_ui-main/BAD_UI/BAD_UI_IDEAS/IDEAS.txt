@@ -1,0 +1,26 @@
+BAD UI IDEAS:
+
+OVERALL IDEAS: IMPLEMENT CHEAT CODES THORUGHOUT THE PROJECT :
+1) CHEAT CODE & INNERHTML TO GET TO NEXT PAGE ON INDEX.HTML__
+
+1) RNG CHECK -->
+1. 1 Empty output field & 1 Button --> Press Button to create random number --> Show it in the empty output field -- > 1 Press only until reload 
+2. 1 output field && Button --> Press Button to create random number --> Show it in output field --> (maybe timer how often you can press button)
+--> If both NUMBERS match --> NOTIFICATION you can procceed
+MAKE IT POSSIBLE TO TYPE IN WORDS ==> EITHER INVENT A CHEAT CODE OR LET USER INSERT CODE VIA .innerHTML to let themselves pass.
+--> PROMPT --> YES OR NO --> YES: REDIRECT NEXT PAGE || NO: CIA 
+--> RANDOM IMG VERIFYIER --> MATCH IMAGES
+2) When clicked 'OK' on notification,  new inputs pop up --> asking to type in CREDITCARD information
+--> when you did that, it tells you it wasnt even needed, but thank you
+
+3) Now the real form to login pops up --> have to type your data in binary/(maybe other system)
+
+--> DO THIS, THEN NEW IDEAS!!
+
+4) HAVE FORM / TABLE WHERE USER GETS TROLLED ==> 
+- ONE OF THE INPUTS RETURNS STRING REVERSED, SO USER HAS TO TYPE IN THE ANSWER IN REVERSE
+- GENERATE NEVER ENDING INPUTS
+
+
+OVERALL IDEAS: IMPLEMENT CHEAT CODES THORUGHOUT THE PROJECT :
+1) CHEAT CODE & INNERHTML TO GET TO NEXT PAGE ON INDEX.HTML__
